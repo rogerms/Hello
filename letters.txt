@@ -1,2 +1,6 @@
 To the group:
 Hello everyone! I would like to talk to you about this project
+
+new line of text from server
+
+I would like to have you after
