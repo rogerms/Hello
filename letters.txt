@@ -1,6 +1,12 @@
 To the group:
 Hello everyone! I would like to talk to you about this project
 
+<<<<<<< HEAD
 my line from client
 
-I would like client to be before 
+I would like client to be before I would like client to be before 
+=======
+new line of text from server
+
+I would like to have you after
+>>>>>>> 7ddceaa544b9b0974ff4a8001e7bfa6de98826f3
