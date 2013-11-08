@@ -12,3 +12,5 @@ I would like to have you after
 more with keys
 
 close the key mnger
+
+it worked without mnger
